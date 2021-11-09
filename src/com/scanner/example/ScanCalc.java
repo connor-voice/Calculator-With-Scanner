@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ScanCalc {
 
 	
-	public static void main(String[] args) {
+	public static void ScanRun() {
 		boolean isInPlay = true;
 		boolean carryOn = true;
 		Scanner input = new Scanner(System.in);
